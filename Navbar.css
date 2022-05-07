@@ -1,0 +1,14 @@
+.image{
+    margin-right: 5%;
+}
+
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.title{
+    color:#fd6a6e;;
+}

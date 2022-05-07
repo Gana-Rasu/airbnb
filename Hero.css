@@ -1,0 +1,57 @@
+.heroimages{
+    width: 150px;
+    height: 245px;
+    border-radius: 5%;
+    margin: 2%;
+}
+
+.twoblock{
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+}
+
+.heroimages5{
+    width: 450px;
+    height: 245px;
+    border-radius: 5%;
+    margin: 2%;
+}
+
+.heroimages2{
+    width: 250px;
+    height: 345px;
+    border-radius: 5%;
+    margin: 2%;
+}
+
+
+.hero-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2%;
+
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.block1{
+    display: flex;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.block3{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+justify-content: center;
+}
+
+.text{
+    padding: 5%;
+    font-weight: bold;
+    background-color: #fd6a6e;
+}
